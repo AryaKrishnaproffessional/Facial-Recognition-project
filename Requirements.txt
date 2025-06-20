@@ -1,0 +1,7 @@
+#Requirements.txt
+tensorflow
+opencv-python
+deepface
+matplotlib
+pandas
+numpy
